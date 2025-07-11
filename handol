@@ -1,0 +1,76 @@
+<style>
+body, #ban {background:url('https://sunnyneo.com/shop/SHOP_chefbonju_bg.jpg');}
+
+#header{background:url('https://sunnyneo.com/gallery/GAL_bonju_img.jpg') no-repeat; height:570px; border:none;}
+#header img {width:95px;}
+#template_nav img {width:85px;}
+#template_nav {width:100px;float:left;padding-left:35px;padding-top:25px;}
+#header .eventIcon img {width:25px;}
+.eventIcon {padding-top:5px;}
+.user {padding-right:120px;}
+#nst {padding-right:120px;color:white;padding-bottom:20px;}
+.sidebarHeader {background:#C9AC84;}
+
+#main{background:url('https://sunnyneo.com/gallery/GAL_bonju_bg.jpg'); border: none;}
+#content{padding-left:135px;width:600px;}
+.sidebar{background:none;}
+hr {
+	width: 0px;
+}
+#footer{background:none;padding-left:120px;width:600px;}
+.footerNifty, #footer table table td img {height:0px;width:0px;}
+#footer table table table{width:200px;}
+#footer table table {width:550px;}
+.copyright {padding-left:160px;}
+td.copyright div.sf {width:530px !important;}
+
+.nav_image ul li {text-indent:-9999px;}
+ul.dropdown {background:none;border:none;}
+body, div, table, tr, td, .medText {font-family: verdana; color: #000000; font-size: 8pt;}
+h1 {font:22pt impact;text-align:center;color:#47270f;}
+#main a, a b{color: #386696;}
+#main a:hover, a b:hover{color: #491818;}
+#content a b, a {color: #bedbe7;}
+#content a:hover b, a:hover {color: #b50000;}
+#main b, b {color:#47270f;}
+
+#rice {width:100%;}
+table td.c1{padding: 15px;}
+table td.c2{padding-right: 15px; vertical-align:middle;}
+table th{font:22pt impact;text-align:center;color:#47270f;}
+.sidebarModule, #ban, img {border:none;}
+#footer {
+	background:none;
+	overflow:hidden;
+	height:50px;
+}
+.copyright {
+	padding-top:200px;
+}
+#footer table {
+	padding-top:300px;
+}
+.footerNifty, .sf img,.copyright img, #pushdown_banner_btf {
+	width:0px;
+	height:0px;
+	background:none;
+}
+#pushdown_banner {
+	top:-999px;
+	height:0px;
+}
+</style>
+
+<table id="rice" width="70%" style="background:#E5D1AB;border: #A99260 3px solid;"><tr>
+<th colspan="2">Shenkuu Sticky Rice recipe:</th></tr>
+<tr>
+<td class="c1">For preperation, first get your ingredients ready. Pick some Lotus leaves from  Shenkuu the Imperial Palace garden. Meanwhile desiccate your Bluchard Root for two days on the main stone of the Tyrannian Plateau. When the two days are over, cut the Bluchard Root into pieces, using a Paper Dagger from Shenkuu.<br><br>
+Now that you have all ingredients prepared, boil the White Chocolate Rice in the Pango Pango pot using the bubbling pit water. After 5 minutes, add the Bluchard Root to the pot, and cook for 3 more minutes.<br><br>
+When ready, let them rest for 2 hours in the Snowager's Cove (when he sleeps).<br><br>
+After this, wrap the rice mix with the Lotus leaves and let them rest for another hour. Serve fresh.</td>
+
+
+<td class="c2"><img src="https://images.neopets.com/items/shf_sticky_rice.gif"></td>
+</tr></table>
+
+<br /><br />
